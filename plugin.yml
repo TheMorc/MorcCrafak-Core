@@ -1,0 +1,14 @@
+name: MorcCrafak-Core
+main: com.MorcCrafak.pcore.core
+version: 1.0
+description: >
+             MorcCrafak-Core.
+commands:
+  swap:
+    description: Swap with player!
+  invisible:
+    description: Make Player Invisible!
+  cc:
+    description: Clar Chat!
+  pcc:
+    description: Play Clear Chat!
